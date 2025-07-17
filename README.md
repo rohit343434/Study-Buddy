@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IPL-Team-Prediction
 
 # Project Title : IPL Fantasy Cricket Dream 11 Team Predictor
@@ -44,3 +45,7 @@ To do so:-
 `STEP 5` - Open Web-Browser (Chrome) and navigate to `http://127.0.0.1:5000/` to use this web-application.
 
 ⬤ Please do ⭐ the Repository, if it helped you in anyway.
+=======
+# Study-Buddy
+It is ai powered smart study buddy which can help you to plan your study.
+>>>>>>> fb8a7db5772ee915491c86f9134990de54c68dff
